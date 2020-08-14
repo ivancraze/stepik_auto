@@ -4,4 +4,3 @@ selenium_dev2
 __pycache__
 .pytest_cache
 debug.log
-__init__.py
